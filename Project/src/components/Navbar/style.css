@@ -1,0 +1,26 @@
+.navbar{
+    width:100vw;
+    height:10vh;
+    display:flex;
+    justify-content: center;
+    background-color: rgb(28, 169, 250);
+    margin-bottom:1vh;
+    align-items: center;
+   
+}
+.navelement{
+    /* border:0.01vh solid rgba(255, 255, 255, 0.774); */
+    border-radius:1vw;
+    margin:1vh;
+    padding:1vh;
+    color:rgb(255, 255, 255);
+    transition:0.3s;
+}
+.navelement:hover{
+    /* border:0.01vh solid white; */
+    background-color: rgb(3, 135, 211);
+    border-radius:1vw;
+    margin:2vh;
+    padding:2vh;
+    color:rgb(255, 255, 255);
+}

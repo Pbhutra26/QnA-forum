@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(115, 192, 255, 0.281);
+  width:100vw;
+  min-height:100vh;
+  transition:10ms;
+}
+ul,li{
+  list-style-type:none;
+}
+
+
